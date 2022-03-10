@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benchu Zhang
-- 👀 I’m interested in optimization
+- 👀 I’m interested in **optimization**
 - 🌱 I’m currently learning Convex optimization and Operations Research
 - 💞️ I’m looking to collaborate on optimization
 - 📫 How to reach me: zhangbc9@gmail.com
